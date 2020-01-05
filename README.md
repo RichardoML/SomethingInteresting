@@ -1,6 +1,6 @@
 # SomethingInteresting
 
-1. https://www.autopiano.cn/ 自动钢琴 对应的github项目 ： [AutoPiano](https://github.com/WarpPrism/AutoPiano)
+1. [自动钢琴AutoPiano https://www.autopiano.cn/]{https://www.autopiano.cn/}
 
 2. https://sorry.xuty.cc/hataraku/ 动图生成器 对应github项目： [sorry](https://github.com/xtyxtyx/sorry)
 
