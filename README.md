@@ -29,3 +29,5 @@
 14. https://carbon.now.sh/ 生成好看的代码预览
 
 15. https://trace.moe/ 用动画截图识别出处 对应github项目：[trace.moe](https://github.com/soruly/trace.moe)
+
+16 [将图片分辨率增大 2x https://waifu2x.booru.pics/](https://waifu2x.booru.pics/)
