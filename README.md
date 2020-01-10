@@ -2,7 +2,7 @@
 
 1. [自动钢琴AutoPiano https://www.autopiano.cn/](https://www.autopiano.cn/)
 
-2. https://sorry.xuty.cc/hataraku/ 动图生成器 对应github项目： [sorry](https://github.com/xtyxtyx/sorry)
+2. [sorry，有钱真的是为所欲为的.对应github项目：](https://sorry.xuty.cc/hataraku/)[sorry](https://github.com/xtyxtyx/sorry)
 
 3. https://www.allhistory.com/ 全历史，有趣的历史网站
 
