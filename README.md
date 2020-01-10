@@ -22,11 +22,11 @@
 
 11. [python100天](https://github.com/jackfrued/Python-100-Days)
 
-12. https://blog.csdn.net/alan00000/article/details/51853838 Linux 20个有趣命令
+12. [Linux 20个有趣命令]( https://blog.csdn.net/alan00000/article/details/51853838 )
 
-13. https://carbon.now.sh/ 生成好看的代码预览
+13. [生成好看的代码预览](https://carbon.now.sh/ )
 
-14. https://trace.moe/ 用动画截图识别出处 对应github项目：[trace.moe](https://github.com/soruly/trace.moe)
+14. [用动画截图识别出处,对应github项目：](https://trace.moe/) [trace.moe](https://github.com/soruly/trace.moe)
 
 15. [将图片分辨率增大 2x https://waifu2x.booru.pics/](https://waifu2x.booru.pics/)
 
