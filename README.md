@@ -31,3 +31,5 @@
 15. https://trace.moe/ 用动画截图识别出处 对应github项目：[trace.moe](https://github.com/soruly/trace.moe)
 
 16 [将图片分辨率增大 2x https://waifu2x.booru.pics/](https://waifu2x.booru.pics/)
+
+17 [数字帝国之数学工具，各种强大的网页版计算器](https://zh.numberempire.com/)
