@@ -33,3 +33,5 @@
 16. [数字帝国之数学工具，各种强大的网页版计算器](https://zh.numberempire.com/)
 
 17. [MSDN我告诉你，纯净的系统镜像与软件](http://msdn.itellyou.cn/)
+
+18. [免费的电子书](http://freecomputerbooks.com/)
