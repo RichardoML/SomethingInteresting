@@ -35,3 +35,5 @@
 17. [MSDN我告诉你，纯净的系统镜像与软件](http://msdn.itellyou.cn/)
 
 18. [免费的电子书](http://freecomputerbooks.com/)
+
+19. [敲键盘或者用鼠标发出初音的声音](https://aidn.jp/mikutap/)
