@@ -21,7 +21,7 @@
 19. [敲键盘或者用鼠标发出初音的声音](https://aidn.jp/mikutap/)
 20. [有趣网站之家](https://youquhome.com/)
 21. [猿学，免费的学习网站](http://yuanxue365.com/)
-22. [译学馆，只是无疆界](https://www.yxgapp.com/)
+22. [译学馆，知识无疆界](https://www.yxgapp.com/)
 23. [好知，自学网站](http://howzhi.com/)
 24. [天空之城，航拍世界](https://www.skypixel.com/)
 25. [小工具](http://www.gjw123.com/)
