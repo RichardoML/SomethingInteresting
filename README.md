@@ -26,3 +26,10 @@
 24. [天空之城，航拍世界](https://www.skypixel.com/)
 25. [小工具](http://www.gjw123.com/)
 <iframe src="//player.bilibili.com/player.html?aid=83746982&cid=143260310&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe 
+    height=450 
+    width=800 
+    src="http://player.youku.com/embed/XMzMxMjE0MjY4NA==" 
+    frameborder=0 
+    allowfullscreen>
+</iframe>
