@@ -26,3 +26,4 @@
 23. [好知，自学网站](http://howzhi.com/)
 24. [天空之城，航拍世界](https://www.skypixel.com/)
 25. [小工具](http://www.gjw123.com/)
+26. [像素画在线制作](http://www.lizibuluo.com/8bit/)
