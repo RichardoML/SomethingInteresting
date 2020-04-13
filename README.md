@@ -29,3 +29,4 @@
 26. [像素画在线制作](http://www.lizibuluo.com/8bit/)
 27. [pixilart像素画](https://www.pixilart.com/)
 28. [优品ppt，免费的ppt模板](https://www.ypppt.com)
+29. [生命游戏模拟器](https://funnyjs.com/jspages/game-of-life.html)
