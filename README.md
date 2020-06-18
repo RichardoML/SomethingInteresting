@@ -30,3 +30,4 @@
 27. [pixilart像素画](https://www.pixilart.com/)
 28. [优品ppt，免费的ppt模板](https://www.ypppt.com)
 29. [生命游戏模拟器](https://funnyjs.com/jspages/game-of-life.html)
+30. [妈咪叔的在线latex公式编辑器](https://www.latexlive.com/)
