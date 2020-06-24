@@ -31,3 +31,13 @@
 28. [优品ppt，免费的ppt模板](https://www.ypppt.com)
 29. [生命游戏模拟器](https://funnyjs.com/jspages/game-of-life.html)
 30. [妈咪叔的在线latex公式编辑器](https://www.latexlive.com/)
+31. [地图生成器](http://datav.aliyun.com/tools/atlas)
+32. [免费素材图片](https://www.pexels.com/zh-cn/)
+33. [阿里巴巴矢量图标库](https://www.iconfont.cn/)
+34. [在线抠图](https://www.remove.bg/zh)
+
+
+
+
+
+
