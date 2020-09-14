@@ -36,7 +36,7 @@
 33. [阿里巴巴矢量图标库](https://www.iconfont.cn/)
 34. [在线抠图](https://www.remove.bg/zh)
 35. [书享家，分享读书之美](http://shuxiangjia.cn/)
-
+36. [Verilog教程](https://www.chipverify.com/verilog/verilog-modules#hierarchical-names)
 
 
 
