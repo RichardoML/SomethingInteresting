@@ -39,7 +39,11 @@
 36. [Verilog教程](https://www.chipverify.com/verilog/verilog-modules#hierarchical-names)
 37. [AI音乐人推荐](https://www.gnoosic.com/faves.php)
 38. [壁纸网站https://wallhaven.cc/](https://wallhaven.cc/)
-
-
+39. [在线格式转换https://www.alltoall.net/](https://www.alltoall.net/)
+40. [牛逼的翻译网站https://www.deepl.com/translate](https://www.deepl.com/translate)
+41. [各种神秘的缩写查询网站](https://lab.magiconch.com/nbnhhsh/?from=home)
+42. [wikiHow,生活百科全书](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
+43. [天气预报https://www.windy.com/](https://www.windy.com/)
+44. []()
 
 
