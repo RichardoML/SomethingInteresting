@@ -37,6 +37,8 @@
 34. [在线抠图](https://www.remove.bg/zh)
 35. [书享家，分享读书之美](http://shuxiangjia.cn/)
 36. [Verilog教程](https://www.chipverify.com/verilog/verilog-modules#hierarchical-names)
+37. [AI音乐人推荐](https://www.gnoosic.com/faves.php)
+38. [壁纸网站https://wallhaven.cc/](https://wallhaven.cc/)
 
 
 
