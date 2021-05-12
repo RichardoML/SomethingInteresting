@@ -44,6 +44,8 @@
 41. [各种神秘的缩写查询网站](https://lab.magiconch.com/nbnhhsh/?from=home)
 42. [wikiHow,生活百科全书](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
 43. [天气预报https://www.windy.com/](https://www.windy.com/)
-44. []()
+44. [文章(nmsl)生成器](https://cgoxopx.github.io/nmslGenerator/)
+45. [骂人宝典，祖安语录，nmsl——1](https://nmsl.shadiao.app/)
+46. [骂人宝典，祖安语录，nmsl——2](https://zuanbot.com/)
 
 
