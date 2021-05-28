@@ -47,5 +47,6 @@
 44. [文章(nmsl)生成器](https://cgoxopx.github.io/nmslGenerator/)
 45. [骂人宝典，祖安语录，nmsl——1](https://nmsl.shadiao.app/)
 46. [骂人宝典，祖安语录，nmsl——2](https://zuanbot.com/)
+47. [Vocaloid声库](http://vocakey.info/)
 
 
