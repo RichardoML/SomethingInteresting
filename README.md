@@ -49,6 +49,8 @@
 46. [骂人宝典，祖安语录，nmsl——2](https://zuanbot.com/)
 47. [Vocaloid声库](http://vocakey.info/)
 48. [免费ppt模板51ppt模板](http://www.51pptmoban.com/)
-49. []()
+49. [免费ppt模板 第一ppt](http://www.1ppt.com/)
+50. [叮当设计，设计素材](https://www.dingdangsheji.com/)
+51. [免费ppt模板 PPT超级市场](https://ppt.sotary.com/)
 
 
