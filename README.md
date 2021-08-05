@@ -52,5 +52,6 @@
 49. [免费ppt模板 第一ppt](http://www.1ppt.com/)
 50. [叮当设计，设计素材](https://www.dingdangsheji.com/)
 51. [免费ppt模板 PPT超级市场](https://ppt.sotary.com/)
+52. [网易云或者qq等歌单导入Spotify和AppleMusichttp://spot.uselesses.com](http://spot.uselesses.com)
 
 
