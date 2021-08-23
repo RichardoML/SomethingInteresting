@@ -55,5 +55,9 @@
 52. [网易云或者qq等歌单导入Spotify和AppleMusichttp://spot.uselesses.com](http://spot.uselesses.com)
 53. [生成二次元女角色](https://make.girls.moe/#/)
 54. [面试四格表情包生成器http://r.ftqq.com/fangtangGif/interview/](http://r.ftqq.com/fangtangGif/interview/)
+55. [趣味互动游戏，请画一个小人](https://www.webhek.com/post/draw-a-stickman.html)
+56. [感受禅意](https://thezen.zone/)
+57. [重力的乐趣](https://codepen.io/akm2/full/rHIsa)
+58. [Ztype打字小游戏](https://zty.pe/)
 
 
