@@ -60,6 +60,6 @@
 57. [重力的乐趣](https://codepen.io/akm2/full/rHIsa)
 58. [Ztype打字小游戏](https://zty.pe/)
 59. [操控模拟空间站/空间站模拟器](https://iss-sim.spacex.com/)
-60. [LKS的网站推荐](xiangjianan.gitee.io/lks)
+60. [LKS的网站推荐](https://xiangjianan.gitee.io/lks)
 
 
