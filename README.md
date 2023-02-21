@@ -65,5 +65,7 @@
 62. [蜜柑计划，动漫下载站](https://mikanani.me/)
 63. [太极创客，物联网Arduino学习](http://www.taichi-maker.com/)
 64. [创客百科](https://wiki.nxez.com/%E9%A6%96%E9%A1%B5)
+65. [在线波形图时序图WaveDrom](https://wavedrom.com/editor.html)对应的github[仓库:](https://github.com/wavedrom/wavedrom)
+66. 时序图波形图软件:TimeGen
 
 
